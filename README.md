@@ -6,6 +6,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0704-binary-search) |
@@ -32,4 +33,8 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
