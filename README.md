@@ -13,6 +13,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
