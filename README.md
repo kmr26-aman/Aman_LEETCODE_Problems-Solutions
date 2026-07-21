@@ -11,6 +11,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0283-move-zeroes) |
@@ -72,4 +73,8 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
