@@ -12,6 +12,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0048-rotate-image](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0283-move-zeroes) |
@@ -77,4 +78,5 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
