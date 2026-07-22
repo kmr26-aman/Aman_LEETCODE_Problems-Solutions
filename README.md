@@ -56,6 +56,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -98,4 +99,8 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2906-construct-product-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
