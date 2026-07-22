@@ -24,6 +24,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [1539-kth-missing-positive-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2906-construct-product-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2906-construct-product-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0074-search-a-2d-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0867-transpose-matrix) |
+| [2906-construct-product-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -89,4 +91,8 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
