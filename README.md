@@ -55,6 +55,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | ------- |
 | [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +111,12 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | ------- |
 | [0125-valid-palindrome](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
