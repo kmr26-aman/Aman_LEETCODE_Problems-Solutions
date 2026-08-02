@@ -13,6 +13,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0054-spiral-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -119,4 +121,8 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
