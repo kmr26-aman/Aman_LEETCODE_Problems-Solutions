@@ -20,6 +20,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0240-search-a-2d-matrix-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0867-transpose-matrix) |
@@ -37,6 +38,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0074-search-a-2d-matrix](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -63,6 +65,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | [0125-valid-palindrome](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +78,7 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 | ------- |
 | [0078-subsets](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +129,12 @@ creating history and notes of the questions attempted on leetcode for dsa in jav
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0078-subsets) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kmr26-aman/Aman_LEETCODE_Problems-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
